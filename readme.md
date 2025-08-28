@@ -1,1 +1,3 @@
-NodePlayer version: 1.2.0
+# 该项目因某些原因只演示首页简化版
+## 因站点只能部署静态页面，故未接入相关接口数据
+# NodePlayer version: 1.2.0
